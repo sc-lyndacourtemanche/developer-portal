@@ -18,6 +18,7 @@ Any functionality that depends on incremental updates, including the following, 
 
 <Alert type="info"><AlertIcon />The provided code is intended as a guideline and must be tailored to suit your specific implementation requirements and an end-to-end implementation needs to be setup considering your full authoring lifecycle and requirements. Please ensure thorough end-to-end testing is conducted to validate its functionality and performance in your environment.</Alert>
 
+
 <Alert type="info"><AlertIcon />XM Cloud is now SitecoreAI. Some code examples, images, and UI labels might still use XM Cloud while engineering assets are being updated.</Alert>
 
 
