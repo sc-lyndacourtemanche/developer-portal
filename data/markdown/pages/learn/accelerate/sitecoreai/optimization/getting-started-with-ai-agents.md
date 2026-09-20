@@ -12,7 +12,7 @@ audience: ['Architect','Product Owner','Project Manager','Technical Implementer'
 ## Context
 AI Agents in Sitecore are designed to automate repetitive tasks and accelerate content operations. They’re embedded in the product and can handle actions like content generation, translation, and SEO optimisation with an aim to help teams reduce bottlenecks and free up time for strategic work. 
 
-> To use Agentic studio and all its features, ensure AI is enabled in the Sitecore Cloud Portal and that you have been added as a user. Reach out to your Sitecore Account team for issues relating to setup.
+<Alert type="info"><AlertIcon />To use Agentic studio and all its features, ensure AI is enabled in the Sitecore Cloud Portal and that you have been added as a user. Reach out to your Sitecore Account team for issues relating to setup.</Alert>
 
 ## Execution
 In addition to the [AI capabilities in SitecoreAI](https://doc.sitecore.com/sai/en/users/sitecoreai/ai-capabilities-in-sitecoreai.html), a number of build-in agents that support common marketing tasks have been made available.
