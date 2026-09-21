@@ -51,7 +51,7 @@ Make sure that as part of your prompt, or files provided, you provide:
 
 To get started copy the prompt below and adapt it:
 
-<Alert type="info"><AlertIcon />Generate content variants for our spring campaign that focused on the fashion-conscious shopper and the trend enthusiast. Content is for Email, Social including LinkedIn and Instagram. Keep tone consistent and on-brand (aspirational, trustworthy, customer-focused) and use the attached brand guidelines and approved messaging pillars.<Alert/>
+<Alert type="info"><AlertIcon />Generate content variants for our spring campaign that focused on the fashion-conscious shopper and the trend enthusiast. Content is for Email, Social including LinkedIn and Instagram. Keep tone consistent and on-brand (aspirational, trustworthy, customer-focused) and use the attached brand guidelines and approved messaging pillars.</Alert>
 
 
 Agents can also be [configured for flexibility](https://doc.sitecore.com/sai/en/users/sitecoreai/bulk-content-generator.html) - setup your recurring audience segmentation with tone variations based on persona, pre-set channels including email, social, blog or preferred outputs.
